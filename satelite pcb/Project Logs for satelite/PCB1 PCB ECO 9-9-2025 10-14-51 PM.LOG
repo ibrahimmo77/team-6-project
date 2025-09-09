@@ -1,0 +1,24 @@
+Added Component: Designator=U?(STM32F103C6T6A)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/C125631.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "STM32F103C6T6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "supplier"; Value = "*LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "supplier Part #"; Value = "C8303"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A2 Pin=U?-12
+Added Pin To Net: NetName=B0 Pin=U?-18
+Added Pin To Net: NetName=B1 Pin=U?-19
+Added Pin To Net: NetName=B10T Pin=U?-21
+Added Pin To Net: NetName=B11E Pin=U?-22
+Added Pin To Net: NetName=GND Pin=U?-23
+Added Pin To Net: NetName=3V3 Pin=U?-24
+Added Pin To Net: NetName=GND Pin=U?-35
+Added Pin To Net: NetName=3V3 Pin=U?-36
+Added Pin To Net: NetName=B4 Pin=U?-40
+Added Pin To Net: NetName=B5 Pin=U?-41
+Added Pin To Net: NetName=B6 Pin=U?-42
+Added Pin To Net: NetName=B7 Pin=U?-43
+Added Pin To Net: NetName=B8 Pin=U?-45
+Added Pin To Net: NetName=GND Pin=U?-47
+Added Pin To Net: NetName=3V3 Pin=U?-48
+Added Member To Class: ClassName=Sheet1 Member=Component U? ST STM32F103C6T6A
